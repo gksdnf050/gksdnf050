@@ -1,5 +1,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fhttps%2F%2Fgithub.com%2Fgksdnf050&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=BLOG&logoColor=white"/>
+
+
+![BLOG BADGE](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=BLOG&logoColor=white&link=https://algorithm-master.tistory.com/)
 
 ### BACKEND DEVELOPER
 <!--
