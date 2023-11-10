@@ -2,7 +2,7 @@
 
 [![](https://img.shields.io/badge/-BLOG-green?style=for-the-badge&logo=Bloglovin&logoColor=black&link=https://algorithm-master.tistory.com/)](https://algorithm-master.tistory.com/)
 
-### BACKEND DEVELOPER
+### Backend developer
 <!--
 **gksdnf050/gksdnf050** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
