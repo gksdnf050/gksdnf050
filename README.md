@@ -2,7 +2,9 @@
 ### Backend developer
 
 ##### 3년차 Backend 개발자로서 Java, Kotlin기반의 Spring 프레임워크를 중심으로 다양한 플랫폼 서비스를 개발 했으며, 개발 프로세스의 처음부터 끝까지 참여하여 서비스를 성공적으로 오픈하고 운영한 경험을 보유하고 있습니다.
+
 -- 
+
 #### Blog: https://algorithm-master.tistory.com
 
 <!--
