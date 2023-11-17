@@ -1,7 +1,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fhttps%2F%2Fgithub.com%2Fgksdnf050&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 ### Backend developer
 
-저는 3년차 Backend 개발자로서 Java, Kotlin기반의 Spring 프레임워크를 중심으로 다양한 플랫폼 서비스를 개발 했으며, 개발 프로세스의 처음부터 끝까지 참여하여 서비스를 성공적으로 오픈하고 운영한 경험을 보유하고 있습니다.
+##### 3년차 Backend 개발자로서 Java, Kotlin기반의 Spring 프레임워크를 중심으로 다양한 플랫폼 서비스를 개발 했으며, 개발 프로세스의 처음부터 끝까지 참여하여 서비스를 성공적으로 오픈하고 운영한 경험을 보유하고 있습니다.
 -- 
 #### Blog: https://algorithm-master.tistory.com
 
